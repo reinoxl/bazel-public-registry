@@ -1,0 +1,9 @@
+{
+  "url": "https://github.com/ros2/message_filters/archive/360e0ec6601ec7ae7ac394aec723f08d31ed43b6.tar.gz",
+  "integrity": "sha256-YQN5NO5nsIVLI+S5bCt7PVGyGwsoc7ZskGFQ2M1VPbU=",
+  "strip_prefix": "message_filters-360e0ec6601ec7ae7ac394aec723f08d31ed43b6",
+  "overlay": {
+    "MODULE.bazel": "sha256-jygKFaSjsrvcheSMkvLQdw+OqPZHWcw+PNuLzYonLh4=",
+    "BUILD.bazel": "sha256-qO5RJ5da5HTkLa9cCX54Vx2/iEDu1g/DaSBdIyta3EM="
+  }
+}
