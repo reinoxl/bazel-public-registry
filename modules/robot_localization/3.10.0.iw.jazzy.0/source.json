@@ -1,0 +1,13 @@
+{
+  "url": "https://github.com/cra-ros-pkg/robot_localization/archive/72067f39c50f147fc067e29eb714eb432e81c762.tar.gz",
+  "integrity": "sha256-UBCsYg7XAcJvPqIAH2qN4JCyPu9xn+xlBCRoBkgIkiE=",
+  "strip_prefix": "robot_localization-72067f39c50f147fc067e29eb714eb432e81c762",
+  "patch_strip": 1,
+  "patches": {
+    "bazel-modifications.patch": "sha256-+We/RHMq0bIYHenV7kOdQJ9B73lGsfWdAyRhHrgdJ8E="
+  },
+  "overlay": {
+    "MODULE.bazel": "sha256-awFoUiifmtPRLcB8BkdB7EgvOgRaXxHgZbUD2WwTj2o=",
+    "BUILD.bazel": "sha256-S8RdN1GlelCSb3/+ZvxUa/n/EGE0ImQr51yJtTHQI1Q="
+  }
+}
