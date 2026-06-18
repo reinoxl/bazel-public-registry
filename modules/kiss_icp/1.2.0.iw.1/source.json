@@ -1,0 +1,11 @@
+{
+  "url": "https://github.com/PRBonn/kiss-icp/archive/74c1fe8f0c1da91124b81afebe57cf4d828658ea.tar.gz",
+  "integrity": "sha256-8xDsWnqWhGmx+sgFp99/qNaKqOnK49oXmvbtU7g/Pqg=",
+  "strip_prefix": "kiss-icp-74c1fe8f0c1da91124b81afebe57cf4d828658ea",
+  "overlay": {
+    "MODULE.bazel": "sha256-EVKjJe8j6NzPQqpTP6qJCPZbiFfeqoniIUNIapsOApI=",
+    "ros/src/kiss_icp_node.cpp": "sha256-q84sOON+UUOzdLsV1KuFfibdsqR718s63egkELIVmZE=",
+    "ros/BUILD.bazel": "sha256-i1X7H9BwfEnqVejCRcYbaM0OXF59OXLlx116fDzdjwA=",
+    "BUILD.bazel": "sha256-LEVK2M9AVwdRm0W6LEffLhv5NlMOfp635xBHtYpmkB0="
+  }
+}
